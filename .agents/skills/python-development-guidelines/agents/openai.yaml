@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Development Guidelines"
+  short_description: "Python typing, tests, docs, and tooling"
+  default_prompt: "Use $python-development-guidelines when writing or reviewing Python code."

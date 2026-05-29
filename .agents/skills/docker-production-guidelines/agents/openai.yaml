@@ -1,0 +1,4 @@
+interface:
+  display_name: "Docker Production Guidelines"
+  short_description: "Secure reproducible Docker rules"
+  default_prompt: "Use $docker-production-guidelines when writing or reviewing Dockerfiles and Compose files."

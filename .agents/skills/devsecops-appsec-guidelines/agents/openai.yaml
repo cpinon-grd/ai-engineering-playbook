@@ -1,0 +1,4 @@
+interface:
+  display_name: "DevSecOps AppSec Guidelines"
+  short_description: "Secure coding and SSDLC rules"
+  default_prompt: "Use $devsecops-appsec-guidelines when writing or reviewing security-sensitive code."

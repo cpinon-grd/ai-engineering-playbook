@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clean Code Guidelines"
+  short_description: "Readable, maintainable code rules"
+  default_prompt: "Use $clean-code-guidelines when writing or reviewing code for readability and maintainability."

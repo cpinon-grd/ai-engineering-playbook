@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pandas Analysis Guidelines"
+  short_description: "Pandas, notebooks, plots, and ML rules"
+  default_prompt: "Use $pandas-analysis-guidelines when writing or reviewing pandas data analysis code."

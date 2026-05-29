@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Project Guidelines"
+  short_description: "Python project structure and tooling rules"
+  default_prompt: "Use $python-project-guidelines when writing or reviewing Python project code and configuration."

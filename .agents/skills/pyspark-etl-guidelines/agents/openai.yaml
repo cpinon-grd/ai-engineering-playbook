@@ -1,0 +1,4 @@
+interface:
+  display_name: "PySpark ETL Guidelines"
+  short_description: "PySpark ETL style and safety rules"
+  default_prompt: "Use $pyspark-etl-guidelines when writing or reviewing PySpark ETL code."

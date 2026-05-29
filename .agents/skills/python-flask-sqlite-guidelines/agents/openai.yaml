@@ -1,0 +1,4 @@
+interface:
+  display_name: "Python Flask SQLite Guidelines"
+  short_description: "Modern Flask and SQLite Python rules"
+  default_prompt: "Use $python-flask-sqlite-guidelines when writing or reviewing Flask and SQLite Python code."
